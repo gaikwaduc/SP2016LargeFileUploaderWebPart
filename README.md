@@ -1,3 +1,5 @@
+# Large File Upload (up to 10 GB) - Visual Web Part for SharePoint 2016
+
 ![Visual WebPart for Large File Upload](https://github.com/gaikwaduc/SP2016LargeFileUploaderWebPart/blob/master/img/1.png)
 
 Existing version of SharePoint 2013 supports and allows to upload the files up to 2 GB. Now it is possible to upload larger files like more than 2 GB in SharePoint 2016. However, large file upload is not directly supported by OOTB, that we need to do some configuration on the farm. Let's, call it as **prerequisite configurations**. 

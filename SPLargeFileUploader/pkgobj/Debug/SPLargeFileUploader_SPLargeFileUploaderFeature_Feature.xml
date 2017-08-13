@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="bac1dfa7-9f69-43a6-8818-256a5b5e4487" Scope="Site" Title="SP Large File Uploader Feature">
+  <ElementManifests>
+    <ElementManifest Location="LargeFileUploader\Elements.xml" />
+    <ElementFile Location="LargeFileUploader\LargeFileUploader.webpart" />
+  </ElementManifests>
+</Feature>

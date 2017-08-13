@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e58dbb54-5439-41f5-8890-64cf3c168241" solutionId="e58dbb54-5439-41f5-8890-64cf3c168241" resetWebServer="false" sharePointProductVersion="16.0" name="SPLargeFileUploader" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="18ae1bd2-596b-4530-b8f5-37fd3b1f464a" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="16e87c76-27a2-4798-97aa-4dd2fe9b85f5" />
+  </projectItems>
+</package>

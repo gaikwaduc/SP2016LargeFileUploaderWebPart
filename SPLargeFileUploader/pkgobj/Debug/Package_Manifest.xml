@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e58dbb54-5439-41f5-8890-64cf3c168241" SharePointProductVersion="16.0">
+  <Assemblies>
+    <Assembly Location="SPLargeFileUploader.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SPLargeFileUploader, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cb4235e74dd6ac26" Namespace="SPLargeFileUploader.LargeFileUploader" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\fonts\glyphicons-halflings-regular.eot" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\fonts\glyphicons-halflings-regular.ttf" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\fonts\glyphicons-halflings-regular.woff" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\fonts\glyphicons-halflings-regular.woff2" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\FileHandler.ashx" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\css\blueimp-gallery.min.css" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\css\bootstrap.min.css" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\css\demo-ie8.css" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\css\demo.css" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\css\jquery.fileupload-noscript.css" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\css\jquery.fileupload-ui-noscript.css" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\css\jquery.fileupload-ui.css" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\css\jquery.fileupload.css" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\css\style.css" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\fonts\glyphicons-halflings-regular.svg" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\img\loading.gif" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\img\progressbar.gif" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\app.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\bootstrap.min.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\cors\jquery.postmessage-transport.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\cors\jquery.xdr-transport.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\HTMLPage1.html" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\jquery.fileupload-angular.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\jquery.fileupload-audio.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\jquery.fileupload-image.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\jquery.fileupload-jquery-ui.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\jquery.fileupload-process.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\jquery.fileupload-ui.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\jquery.fileupload-validate.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\jquery.fileupload-video.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\jquery.fileupload.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\jquery.iframe-transport.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\startUpload.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\vendor\jquery.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\main.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\vendor\canvas-to-blob.min.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\vendor\jquery.blueimp-gallery.min.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\vendor\jquery.min.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\vendor\jquery.ui.widget.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\vendor\load-image.all.min.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\vendor\tether.min.js" />
+    <TemplateFile Location="Layouts\POCSPLargeFileUploader\js\vendor\tmpl.min.js" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SPLargeFileUploader_SPLargeFileUploaderFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

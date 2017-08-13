@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="SPLargeFileUploader.LargeFileUploader.LargeFileUploader, SPLargeFileUploader, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cb4235e74dd6ac26" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Large File Upload (up to 10 GB) - Visual Web Part for SharePoint 2016</property>
+        <property name="Description" type="string">Visual Web Part to upload large files into document library</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>
